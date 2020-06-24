@@ -1,0 +1,23 @@
+{
+  "name": "alurabank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thayronFeitosa/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thayronFeitosa/typescript/issues"
+  },
+  "homepage": "https://github.com/thayronFeitosa/typescript#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
